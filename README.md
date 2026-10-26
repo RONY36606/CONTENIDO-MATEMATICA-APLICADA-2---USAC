@@ -1,10 +1,10 @@
-Calculadoras de Series y Transformadas de Fourier 
+## Calculadoras de Series y Transformadas de Fourier 
 
 Este repositorio contiene un conjunto de herramientas y calculadoras interactivas desarrolladas en Python para el análisis, cálculo y visualización de Series de Fourier y Transformadas de Fourier.
 
 El proyecto combina cálculo simbólico, análisis numérico y visualización gráfica interactiva para facilitar el estudio de señales y procesamiento de frecuencias.
 
-Tecnologías Principales
+## Tecnologías Principales
 
 SymPy: Para el cálculo simbólico exacto de las series, transformadas e integrales.
 
@@ -14,11 +14,11 @@ Matplotlib: Para la graficación y representación visual de señales en el domi
 
 Jupyter Notebook: Para la ejecución interactiva del código.
 
-Guía de Instalación
+## Guía de Instalación
 
 Sigue estos pasos para clonar el repositorio, crear un entorno virtual e instalar todas las dependencias necesarias según tu sistema operativo.
 
-Requisitos Previos
+# Requisitos Previos
 
 Asegúrate de tener instalado Python 3.9 o superior en tu sistema.
 
@@ -28,7 +28,7 @@ python --version   # En Windows
 python3 --version  # En Linux
 
 
-Paso 1: Clonar el Repositorio
+## Paso 1: Clonar el Repositorio
 
 Abre la terminal o símbolo del sistema y ejecuta:
 
@@ -36,11 +36,11 @@ git clone https://github.com/RONY36606/CONTENIDO-MATEMATICA-APLICADA-2---USAC.gi
 cd tu-repositorio
 
 
-Paso 2: Crear e Instalar el Entorno Virtual
+## Paso 2: Crear e Instalar el Entorno Virtual
 
 Es recomendable utilizar un entorno virtual para aislar las dependencias de este proyecto.
 
-En Windows
+#En Windows
 
 Crear el entorno virtual:
 
@@ -63,7 +63,7 @@ Desde Símbolo del Sistema (CMD):
 
 (Sabrás que está activo porque aparecerá (venv) al inicio de la línea de comandos).
 
-En Linux y/o macOS
+# En Linux y/o macOS
 
 Crear el entorno virtual:
 (Si no tienes el paquete venv instalado en Linux Ubuntu/Debian, ejecuta primero: sudo apt install python3-venv)
